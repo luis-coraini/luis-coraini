@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0000FF&textBg=false&reversal=false">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6F4E37&textBg=false&reversal=false">
 
 ---
 
@@ -6,12 +6,12 @@
 
 
   
-## $${\color{Cyan}Olá, \space mundo!!! \space Me \space chamo \space Luis \space Felipe}$$
+## $${\color{#6F4E37}Olá, \space mundo!!! \space Me \space chamo \space Luis \space Felipe}$$
 
- 👨‍💻 $${\color{LightSkyBlue} Sou \space um \space desenvolvedor \space back end \space focado \space e \space apaixonado \space por \space tecnologia, \space com \space carinho \space especial \space por \space GameDev \space 🎮 \space.}$$ <br>
- 💻 $${\color{LightSkyBlue} Técnico \space em \space desenvolvimento \space de \space sistemas.}$$  <br>
- 📚 $${\color{LightSkyBlue} Graduando \space em \space desenvolvimento \space de \space sistemas \space na \space Uninter.}$$  <br>
- 🚀 $${\color{LightSkyBlue} Aprofundando \space meus \space conhecimentos \space em \space ASP.NET.}$$  <br>
+ <h4> 👨‍💻 $${\color{#C19A6B} Sou \space um \space desenvolvedor \space back end \space focado \space e \space apaixonado \space por \space tecnologia, \space com \space carinho \space especial \space por \space GameDev \space 🎮.}$$ <br>
+ 💻 $${\color{#C19A6B} Técnico \space em \space desenvolvimento \space de \space sistemas.}$$  <br>
+ 📚 $${\color{#C19A6B} Graduando \space em \space desenvolvimento \space de \space sistemas \space na \space Uninter.}$$  <br>
+ 🚀 $${\color{#C19A6B} Aprofundando \space meus \space conhecimentos \space em \space ASP.NET.}$$  <br> </h4>
  
 </div>
 
@@ -19,9 +19,9 @@
 
 <div align="center">
   <a href="https://github.com/luis-coraini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luis-coraini&locale=pt-br&theme=react&title_color=00BFFF&text_color=B0C4DE&hide_border=false&bg_color=00000000&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-coraini&locale=pt-br&theme=react&title_color=00BFFF&text_color=B0C4DE&hide_border=false&bg_color=00000000&include_all_commits=false&count_private=false&layout=compact"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=luis-coraini&theme=transparent&locale=pt_BR&short_numbers=true&ring=00BFFF&sideNums=00BFFF&sideLabels=00BFFF&currStreakLabel=00BFFF&dates=B0C4DE&currStreakNum=00BFFF&fire=FF0000)](https://git.io/streak-stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luis-coraini&locale=pt-br&theme=react&title_color=6F4E37&text_color=C19A6B&hide_border=false&bg_color=00000000&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-coraini&locale=pt-br&theme=react&title_color=6F4E37&text_color=C19A6B&hide_border=false&bg_color=00000000&include_all_commits=false&count_private=false&layout=compact"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=luis-coraini&theme=transparent&locale=pt_BR&short_numbers=true&ring=6F4E37&sideNums=6F4E37&sideLabels=6F4E37&currStreakLabel=C19A6B&dates=C19A6B&currStreakNum=C19A6B&fire=C19A6B)"/>
 </div>
 
 ##
@@ -51,4 +51,4 @@
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0000FF&textBg=false&reversal=true&section=footer">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=C19A6B&textBg=false&reversal=true&section=footer">
